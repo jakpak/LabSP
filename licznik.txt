@@ -1,0 +1,3 @@
+192 znakow brzechwa.txt
+33 wyrazow brzechwa.txt
+8 linii brzechwa.txt
